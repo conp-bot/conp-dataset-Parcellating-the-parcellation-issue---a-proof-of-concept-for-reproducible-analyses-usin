@@ -1,0 +1,89 @@
+{
+    "identifier": {
+        "identifier": "https://doi.org/10.5281/zenodo.10031957",
+        "identifierSource": "DOI"
+    },
+    "title": "Parcellating the parcellation issue - a proof of concept for reproducible analyses using Neurolibre",
+    "creators": [
+        {
+            "name": "Pierre Bellec"
+        },
+        {
+            "name": "Sa\u00e2d Jbabdi"
+        },
+        {
+            "name": "R. Cameron Craddock"
+        }
+    ],
+    "description": "Dataset provided for NeuroLibre preprint.\n Author repo: https://github.com/pbellec/editorial_parcellation \nNeuroLibre fork:https://github.com/roboneurolibre/editorial_parcellation <p>For details, please visit the corresponding <a href=\"https://github.com/neurolibre/neurolibre-reviews/issues/10\">NeuroLibre technical screening.</a></p>  \n<p><strong><a href=\"https://neurolibre.org\">https://neurolibre.org</a></strong></p>",
+    "version": "None",
+    "licenses": [
+        {
+            "name": "cc-zero"
+        }
+    ],
+    "keywords": [
+        {
+            "value": "canadian-open-neuroscience-platform"
+        },
+        {
+            "value": "neurolibre"
+        }
+    ],
+    "distributions": [
+        {
+            "formats": [
+                ".ZIP"
+            ],
+            "size": 22.8,
+            "unit": {
+                "value": "kB"
+            },
+            "access": {
+                "landingPage": null,
+                "authorizations": [
+                    {
+                        "value": "public"
+                    }
+                ]
+            }
+        }
+    ],
+    "extraProperties": [
+        {
+            "category": "logo",
+            "values": [
+                {
+                    "value": "https://about.zenodo.org/static/img/logos/zenodo-gradient-round.svg"
+                }
+            ]
+        },
+        {
+            "category": "files",
+            "values": [
+                {
+                    "value": "1"
+                }
+            ]
+        }
+    ],
+    "dates": [
+        {
+            "date": "2023-10-23 15:39:54",
+            "type": {
+                "value": "date created"
+            }
+        },
+        {
+            "date": "2023-10-23 15:39:54",
+            "type": {
+                "value": "date modified"
+            }
+        }
+    ],
+    "types": [
+        {
+            "value": "unknown"
+        }
+    ]
+}
